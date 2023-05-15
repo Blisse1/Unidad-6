@@ -63,7 +63,7 @@ let detergenteItem = {
         "Valor_Compra": 5400,
         "Valor_Venta": 6000
     },
-    "Tipo": "Alimento" 
+    "Tipo": "Aseo" 
 }
 let aceiteItem = {
     "Nombre": "Aceite",
@@ -81,7 +81,7 @@ let cervezaItem = {
         "Valor_Compra": 3000,
         "Valor_Venta": 3200
     },
-    "Tipo": "Alimento" 
+    "Tipo": "Bebida" 
 }
 let cremaItem = {
     "Nombre": "Crema-dental",
@@ -90,7 +90,7 @@ let cremaItem = {
         "Valor_Compra": 3000,
         "Valor_Venta": 4000
     },
-    "Tipo": "Alimento" 
+    "Tipo": "Higiene" 
 }
 let jabonItem = {
     "Nombre": "Jabon",
@@ -99,7 +99,7 @@ let jabonItem = {
         "Valor_Compra": 6000,
         "Valor_Venta": 7000
     },
-    "Tipo": "Alimento" 
+    "Tipo": "Aseo" 
 }
 
 obj.Productos.push(arrozItem); 
